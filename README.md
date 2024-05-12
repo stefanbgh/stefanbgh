@@ -1,16 +1,15 @@
-### Hi there 👋
+# 📌 About Me:
+Hi 👋🏻! My name is Stefan and I'm a Frontend Developer, from Serbia
 
-<!--
-**stefanbgh/stefanbgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-blagojevic-2aa3a5273/) 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwindcss,redux,vue,pinia,html,css,sass,bootstrap,git,ubuntu)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats:
+![](https://github-readme-stats.vercel.app/api?username=stefanbgh&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stefanbgh&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanbgh&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
