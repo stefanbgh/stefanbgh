@@ -13,5 +13,4 @@ Hi 👋🏻! My name is Stefan and I'm a junior Software Developer, from Serbia
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stefanbgh&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanbgh&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
