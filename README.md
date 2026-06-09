@@ -5,8 +5,8 @@ Hi 👋🏻! My name is Stefan and I'm a Junior Full-Stack Developer, from Serbi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-blagojevic-2aa3a5273/) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=ts,next,react,tailwindcss,redux,vue,pinia,sass)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=phpstorm,nodejs,express,mysql,sequelize,gitlab,postman,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,next,react,tailwindcss,redux,vue,pinia,angular,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=phpstorm,nodejs,express,mysql,sequelize,mongodb,gitlab,postman,ubuntu)](https://skillicons.dev)
 
 ## 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stefanbgh&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
