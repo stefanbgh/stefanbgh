@@ -6,7 +6,7 @@ Hi 👋🏻! My name is Stefan and I'm a Junior Full-Stack Developer, from Serbi
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=ts,next,react,tailwindcss,redux,vue,pinia,sass)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=phpstorm,nodejs,express,mysql,postgres,sequelize,postman,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=phpstorm,nodejs,express,mysql,sequelize,gitlab,postman,ubuntu)](https://skillicons.dev)
 
 ## 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stefanbgh&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
