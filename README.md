@@ -1,5 +1,5 @@
 # 📌 About Me:
-Hi 👋🏻! My name is Stefan and I'm a junior Software Engineer, from Serbia
+Hi 👋🏻! My name is Stefan and I'm a Junior Full-Stack Developer, from Serbia
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-blagojevic-2aa3a5273/) 
