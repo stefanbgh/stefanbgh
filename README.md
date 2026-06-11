@@ -2,7 +2,7 @@
 Hi 👋🏻! My name is Stefan and I'm a Junior Software Engineer, from Serbia
 
 ## 🌐 Connect With Me
-💼 [Portfolio](https://my-portfolio-neon-beta.vercel.app/)  
+[![💼 Portfolio](https://img.shields.io/badge/%F0%9F%92%BC%20Portfolio-FF6B6B?style=for-the-badge)](https://my-portfolio-neon-beta.vercel.app/)
 🔗 [LinkedIn](https://www.linkedin.com/in/stefan-blagojevic-2aa3a5273/)
 
 # 💻 Tech Stack:
